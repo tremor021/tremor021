@@ -38,7 +38,8 @@
   
   ### 📊 Monitoring & Management
   <a href="https://github.com/louislam/uptime-kuma">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=louislam&repo=uptime-kuma&theme=material-palenight" />
+    <img align="center" src="+
+      " />
   </a>
 
   ### 📸 Media & Document Management
